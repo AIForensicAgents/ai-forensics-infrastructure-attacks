@@ -1,3 +1,5 @@
+![Cover Image](assets/cover-image.png)
+
 <!-- Open Graph Meta Description
 ai-forensics-infrastructure-attacks: Forensic investigation frameworks, detection indicators, and mitigation strategies for critical infrastructure compromise by recursive autonomous AI agents. Covers power grids, water systems, transportation networks, and telecommunications infrastructure exploitation chains.
 -->
